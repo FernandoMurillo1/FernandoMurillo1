@@ -6,5 +6,6 @@
 I am a driven CyberSecurity enthusiast with a profound interest in technology, and a strong dedication to solving complex problems. 
 
 ## Obejective 
-[Provide Objective] 
+[Provide Objective]
+
 My journey in Cybersecurity has led me to develop a passion for Security and Incident response, and I am now eager to transition into this field. Specifically i am aming to join a Security Operations Center (SOC) as an Analyst. 
