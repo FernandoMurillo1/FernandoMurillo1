@@ -48,5 +48,5 @@ My journey in Cybersecurity has led me to develop a passion for Security and Inc
 </div>
 
 ## Projects 
-    * Detection Lab 
-    * SOC Automation Project
+    - Detection Lab 
+    - SOC Automation Project
