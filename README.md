@@ -13,7 +13,8 @@ My journey in Cybersecurity has led me to develop a passion for Security and Inc
 
 | Skill                                         |  Associated Project           |
 |----------------------------------------------|-------------------------------|
- 
+| Linux Privilege Escalation                   | <a href="https://docs.google.com/document/d/1dmiMziTdOq-AxNQSrHcP6mnPF2VwLkZ_XbT_syw05LU/edit">SOC Automation Lab</a> | 
+| SQL Injetion                                 | <a href="https://docs.google.com/document/d/1nVw96CmAkMxOANZJBEb0eriRxHu2sAX3VE4RfFSddMQ/edit">SOC Automation Lab</a> |           
 
  ## Tools 
  <div> 
@@ -48,5 +49,5 @@ My journey in Cybersecurity has led me to develop a passion for Security and Inc
 </div>
 
 ## Projects 
-    -Detection Lab 
-    -SOC Automation Project
+    - Linux Privilege Escalation 
+    - SQL Injection 
