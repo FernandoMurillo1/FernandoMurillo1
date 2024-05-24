@@ -49,5 +49,5 @@ My journey in Cybersecurity has led me to develop a passion for Security and Inc
 </div>
 
 ## Projects 
-    - Linux Privilege Escalation 
-    - SQL Injection 
+- Detection Lab 
+- SOC Automation Project 
