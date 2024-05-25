@@ -15,6 +15,8 @@ My journey in Cybersecurity has led me to develop a passion for Security and Inc
 |----------------------------------------------|-------------------------------|
 | Linux Privilege Escalation                   | <a href="https://docs.google.com/document/d/1dmiMziTdOq-AxNQSrHcP6mnPF2VwLkZ_XbT_syw05LU/edit">SOC Automation Lab</a> | 
 | SQL Injetion                                 | <a href="https://docs.google.com/document/d/1nVw96CmAkMxOANZJBEb0eriRxHu2sAX3VE4RfFSddMQ/edit">SOC Automation Lab</a> |           
+| SIEM Implementation                          | <a href="https://docs.google.com/document/d/14tJDjppYe_Ca1gFGUCeuBy9V5U5HXW8bfzinQ9FQw_w/edit">Detection Lab</a>      |
+| Wireshark Analysis                           | <a href="https://docs.google.com/document/d/19E7zlmnU5pXBIOjmRT2LkzYz-cDMC1QpilqKPOo65nU/edit">Detection Lab</a>      |
 
  ## Tools 
  <div> 
