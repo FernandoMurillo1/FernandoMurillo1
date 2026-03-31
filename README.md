@@ -1,7 +1,5 @@
-# Hello, I'm Luis Fernando Murillo, Cybersecurity Professional, IT Professional 
-<a href="https://www.linkedin.com/in/luis-murillo-748474217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 # Hi, I'm Luis Fernando Murillo 👋
+<a href="https://www.linkedin.com/in/luis-murillo-748474217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🔐 Cybersecurity | IT Support | CompTIA A+ • Network+ • Security+ • CySA+
 
