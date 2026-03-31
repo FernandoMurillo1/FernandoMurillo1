@@ -1,11 +1,18 @@
 # Hello, I'm Luis Fernando Murillo, Cybersecurity Professional, IT Professional 
 <a href="https://www.linkedin.com/in/luis-murillo-748474217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a driven CyberSecurity enthusiast with a profound interest in technology, and a strong dedication to solving complex problems. 
+# Hi, I'm Luis Fernando Murillo 👋
 
-## Objective 
+🔐 Cybersecurity | IT Support | CompTIA A+ • Network+ • Security+ • CySA+
 
-My journey in Cybersecurity has led me to develop a passion for Security and Incident response, and I am now eager to transition into this field. Specifically i am aming to join a Security Operations Center (SOC) as an Analyst. 
+🎓 Computer Science student at Chaffey College
+
+🔭 Currently working on: SIEM monitoring and Active Directory labs
+
+🛠️ Tools I work with: Wazuh, Wireshark, Windows Server, Active Directory, 
+   Kali Linux, VMware, VirtualBox
+
+📫 Reach me: murillofluis@gmail.com | linkedin.com/in/luis-murillo1
 
 ## Skills  
 
