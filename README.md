@@ -1,62 +1,37 @@
 # Hi, I'm Luis Fernando Murillo 👋
-<a href="https://www.linkedin.com/in/luis-murillo-748474217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🔐 Cybersecurity | IT Support | CompTIA A+ • Network+ • Security+ • CySA+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-murillo-748474217/)
 
-🎓 Computer Science student at Chaffey College
+🖥️ IT Support Specialist with a growing focus in Cybersecurity
+🎓 Computer Science student at Chaffey College (transferring to Cal Poly Pomona)
+🔒 CompTIA A+ • Network+ • Security+ • CySA+
+🔭 Currently building: Active Directory, SIEM, and helpdesk ticketing homelabs
+🛠️ Tools: Wazuh, Wireshark, Windows Server, Active Directory, Kali Linux, VMware, VirtualBox
+📫 Reach me: murillofluis@gmail.com | [linkedin.com/in/luis-murillo1](https://www.linkedin.com/in/luis-murillo-748474217/)
 
-🔭 Currently working on: SIEM monitoring and Active Directory labs
+---
 
-🛠️ Tools I work with: Wazuh, Wireshark, Windows Server, Active Directory, 
-   Kali Linux, VMware, VirtualBox
+## 🧪 Featured Projects
 
-📫 Reach me: murillofluis@gmail.com | linkedin.com/in/luis-murillo1
+| Project | Description |
+|---|---|
+| [osTicket Help Desk Lab](https://github.com/FernandoMurillo1/osTicket-Help-Desk-Lab) | Simulated helpdesk environment on Ubuntu Server with 10 tickets across SEV-1/2/3 SLA tiers |
+| [Active Directory Home Lab](https://github.com/FernandoMurillo1/Active-Directory-Home-Lab-Integrating-PowerShell-Project) | Windows Server AD lab with PowerShell automation for user/group provisioning |
+| [Wazuh SIEM Home Lab](https://github.com/FernandoMurillo1/Wazuh-SIEM-Home-Lab---Security-Monitoring-and-Threat-Detection-) | SIEM deployment simulating brute-force, fileless malware, and FIM alert detection |
+| [Wireshark Analysis](https://github.com/FernandoMurillo1/Wireshark-Analysis) | Packet capture analysis and traffic inspection walkthroughs |
 
-## Skills  
+---
 
+## 🛠️ Skills
 
-| Skill                                         |  Associated Project           |
-|----------------------------------------------|-------------------------------|
-| Linux Privilege Escalation                   | <a href="https://docs.google.com/document/d/1dmiMziTdOq-AxNQSrHcP6mnPF2VwLkZ_XbT_syw05LU/edit">SOC Automation Lab</a> | 
-| SQL Injetion                                 | <a href="https://docs.google.com/document/d/1nVw96CmAkMxOANZJBEb0eriRxHu2sAX3VE4RfFSddMQ/edit">SOC Automation Lab</a> |  
-| Windows Buffer Overflow                      | <a href="https://docs.google.com/document/d/1zU8vloH36tD6AJv9wO1ZuIvWyhTn0NmzpaWd6zJFP88/edit">SOC Automation Lab</a> |
-| How many shells project                      | <a href="https://docs.google.com/document/d/1mF-yrS67ttLzW1flNNbnrHZOyHDsbGm4XQMDswxOJ1E/edit">SOC Automation Lab</a> | 
-| SIEM Implementation                          | <a href="https://docs.google.com/document/d/14tJDjppYe_Ca1gFGUCeuBy9V5U5HXW8bfzinQ9FQw_w/edit">Detection Lab</a>      |
-| Wireshark Analysis                           | <a href="https://docs.google.com/document/d/19E7zlmnU5pXBIOjmRT2LkzYz-cDMC1QpilqKPOo65nU/edit">Detection Lab</a>      |
-| Windows Security Log                         | <a href="https://docs.google.com/document/d/1RZK5V44_bGqS3jm6RLcbXQHPy7iUzjjOZU1oPb2h4nY/edit">Detection Lab</a>      | 
+**Networking & Security:** Active Directory, Windows Server, Wireshark packet analysis, SIEM monitoring (Wazuh), threat detection, VLANs
+**IT Support:** Ticketing systems (osTicket), POS/printer/network troubleshooting, imaging & provisioning
+**Tools & Platforms:** VMware, VirtualBox, Kali Linux, PowerShell
 
- ## Tools 
- <div> 
-   <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Metasploit-507C90?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Nessus-00A0E0?&style=for-the-badge&logo=Tenable&logoColor=white" />
-   <img src="https://img.shields.io/badge/-John%20the%20Ripper-000000?&style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<div> 
- 
-## Network 
-<div> 
- <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> 
- <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
- <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
- <img src="https://img.shields.io/badge/-Nikto-8A2BE2?&style=for-the-badge&logo=Nikto&logoColor=white" />
- <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
-</div>
+---
 
-## SIEM 
-<div> 
-    
-</div>
+## 🏅 Certifications
 
-
-
-## Certifications 
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-CYSA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSAP-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-## Projects 
-- Detection Lab 
-- SOC Automation Project 
+![Security+](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
+![CySA+](https://img.shields.io/badge/CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
